@@ -1,0 +1,1 @@
+This is an all new programming language I created called Cthulhu. You can use the repl and type help for more information.. The language has a.i. capabilities.. So initially since you have copy pasted this code on your text editor and saved it let's say on your desktop, you must then run on the command prompt python Cthulhu.py but from the desktop directory. I hope you enjoy. 
